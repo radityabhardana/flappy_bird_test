@@ -5,11 +5,11 @@ Sebuah game Flappy Bird klasik yang dibuat sepenuhnya dari nol menggunakan HTML5
 ---
 
 Demo live bisa diakses di sini:
-[link vercel akan ditambahkan]
+https://flappybirdrbh.vercel.app/
 
-Screenshot atau preview game akan ditambahkan di sini.
 
----
+<img width="475" height="794" alt="image" src="https://github.com/user-attachments/assets/c2065dd6-5baf-4b62-94dc-94aa6596816d" />
+
 
 Tentang Proyek Ini
 
